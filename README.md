@@ -1,4 +1,4 @@
-Wealth Notifier
+JSC Node Scheduler
 ---
 
-Capture wealth metrics and update to Slack.
+Run a node JS application on a scheduler.
